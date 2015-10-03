@@ -44,7 +44,7 @@ gem 'coffee-rails', '4.0.0'
 gem 'jquery-rails', '2.2.1'
 gem 'turbolinks', '1.1.1'
 gem 'jbuilder', '1.0.2'
-
+gem 'rubyzip',  "~> 0.9.9"
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
